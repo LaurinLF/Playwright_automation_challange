@@ -1,2 +1,2 @@
-# Playwright_automation_challange
-🚀 Playwright Automation Challenge: DemoBlaze E2E Tests
+# Playwright_automation_challenge
+🚀 Playwright Automation challenge: DemoBlaze E2E Tests
