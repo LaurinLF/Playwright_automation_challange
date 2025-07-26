@@ -7,7 +7,7 @@ export default defineConfig({
   fullyParallel: true,
   reporter: 'html',
   use: {
-    headless: false,
+    headless: true,
     trace: 'on',
     video: 'on',
   },

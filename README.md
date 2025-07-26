@@ -1,7 +1,5 @@
 # Playwright Automation Challenge  
 
-[![Playwright Tests](https://github.com/your-username/Playwright_automation_challange/actions/workflows/playwright.yml/badge.svg)](https://github.com/your-username/Playwright_automation_challange/actions)  
-
 **Automating critical user flows for DemoBlaze with Playwright.**  
 
 🚀 Installation & Setup
